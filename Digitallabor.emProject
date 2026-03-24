@@ -161,12 +161,7 @@
       <file file_name="Source/Aufgabe3_2.s">
         <configuration Name="Debug" build_exclude_from_build="Yes" />
       </file>
-      <file file_name="Source/Aufgabe3_3.s">
-        <configuration Name="Debug" build_exclude_from_build="Yes" />
-      </file>
-      <file file_name="Source/Aufgabe3_4.s">
-        <configuration Name="Debug" build_exclude_from_build="Yes" />
-      </file>
+      <file file_name="Source/Aufgabe3_lib.s" />
     </folder>
     <folder Name="System">
       <file file_name="System/ARM_Startup.s" />

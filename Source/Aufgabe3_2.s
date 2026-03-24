@@ -6,7 +6,7 @@
  *  Created on: <$Date>
  *      Author: <$Name>
  *
- *	Aufgabe : Unterprogrammaufruf  mit Parametern
+ *	Aufgabe : Stack, Heap, lokale Variablen sowie Modulare Programmierung
  */
 .text /* Specify that code goes in text segment */
 .code 32 /* Select ARM instruction set */

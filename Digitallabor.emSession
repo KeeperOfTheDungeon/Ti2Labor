@@ -4,7 +4,6 @@
  <Breakpoints groups="Breakpoints" active_group="Breakpoints">
   <BreakpointListItem trigger="Execute" line="0" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="0x40000368" stopAll="false" group="Breakpoints" type="Breakpoint" state="3" filename="../Workspace_DTL" useHWbreakpoint="false"/>
   <BreakpointListItem trigger="Execute" line="0" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="0x4000038c" stopAll="false" group="Breakpoints" type="Breakpoint" state="3" filename="../Workspace_DTL" useHWbreakpoint="false"/>
-  <BreakpointListItem trigger="" line="16" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" stopAll="false" group="Breakpoints" type="Breakpoint" state="4" filename="Source/Aufgabe4_1.s" useHWbreakpoint="false"/>
   <BreakpointListItem trigger="" line="14" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" stopAll="false" group="Breakpoints" type="Breakpoint" state="4" filename="Source/BeispielAufgabe1_1.s" useHWbreakpoint="false"/>
   <Exceptions set="Reset;Undef;P_Abort;D_Abort"/>
  </Breakpoints>
@@ -76,11 +75,12 @@
  </Memory4>
  <Project>
   <ProjectSessionItem path="Digitallabor"/>
-  <ProjectSessionItem path="Digitallabor;Aufgabe5"/>
-  <ProjectSessionItem path="Digitallabor;Aufgabe5;Source"/>
-  <ProjectSessionItem path="Digitallabor;Aufgabe5;System"/>
-  <ProjectSessionItem path="Digitallabor;Aufgabe6"/>
-  <ProjectSessionItem path="Digitallabor;Aufgabe6;Source"/>
+  <ProjectSessionItem path="Digitallabor;Aufgabe1"/>
+  <ProjectSessionItem path="Digitallabor;Aufgabe1;Setup"/>
+  <ProjectSessionItem path="Digitallabor;Aufgabe1;Source"/>
+  <ProjectSessionItem path="Digitallabor;Aufgabe3"/>
+  <ProjectSessionItem path="Digitallabor;Aufgabe3;Source"/>
+  <ProjectSessionItem path="Digitallabor;Aufgabe4"/>
   <ProjectSessionItem path="Digitallabor;Aufgabe7"/>
   <ProjectSessionItem path="Digitallabor;Aufgabe7;Source"/>
  </Project>
@@ -159,5 +159,5 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files/>
- <EMStudioWindow activeProject="Aufgabe1" fileDialogDefaultFilter="*.asm;*.s;*.inc" autoConnectTarget="Simulator" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/hs/dtl/Workspace_DTL/Source" debugSearchPath="" autoConnectCapabilities="4415"/>
+ <EMStudioWindow activeProject="Aufgabe1" fileDialogDefaultFilter="*.asm;*.s;*.inc" autoConnectTarget="Simulator" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="D:/dtl/Ti2Labor/Source" debugSearchPath="" autoConnectCapabilities="4415"/>
 </session>
